@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{662C8DE0-7C21-47E9-BB9C-7C182540DCF3}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Jobs.cshtml">
     <Files>
-      <File FileName="Pages/Jobs.cshtml" Line="17" Column="20" />
+      <File FileName="Pages/Jobs.cshtml" Line="37" Column="10" />
+      <File FileName="../../../.nuget/packages/microsoft.aspnetcore.razor.design/2.1.2/build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.CodeGeneration.targets" Line="121" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

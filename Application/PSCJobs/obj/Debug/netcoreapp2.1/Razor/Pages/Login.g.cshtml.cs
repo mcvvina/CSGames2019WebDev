@@ -67,7 +67,7 @@ using PSCJobs;
             WriteLiteral("\r\n<div class=\"row\">\r\n    <div class=\"col-md-8\">\r\n        <section>\r\n            ");
             EndContext();
             BeginContext(209, 1451, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "00f96efee68a4db09490748d441c0e10", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a97ad5209a4b4f2b858710bd005c3eae", async() => {
                 BeginContext(265, 2, true);
                 WriteLiteral("\r\n");
                 EndContext();
@@ -85,7 +85,7 @@ using PSCJobs;
                             ");
                 EndContext();
                 BeginContext(755, 72, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "97a888d1996d48e1812be6e5e02e1a8f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d4999a96fbdb4cfbba85d260469dac04", async() => {
                     BeginContext(812, 6, true);
                     WriteLiteral("Log in");
                     EndContext();
@@ -108,7 +108,7 @@ using PSCJobs;
                 WriteLiteral("\r\n                        </div>\r\n                    </div>\r\n                    <br />\r\n                    <div class=\"col-md-offset-1\">\r\n                        ");
                 EndContext();
                 BeginContext(992, 64, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "900f338ab1d14a36965b533dc27c63b9", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "34ac89c185524ea3a7a9c9b3b75ab1d8", async() => {
                     BeginContext(1021, 31, true);
                     WriteLiteral("Forgot password? Reset it here.");
                     EndContext();
@@ -139,7 +139,7 @@ using PSCJobs;
                             ");
                 EndContext();
                 BeginContext(1481, 74, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2e7bd31a1d4b4b0e82776d2b24d75a46", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2f0fcde9f3984625b97f4244cffc8935", async() => {
                     BeginContext(1539, 7, true);
                     WriteLiteral("Sign up");
                     EndContext();
