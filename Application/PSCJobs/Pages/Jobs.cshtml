@@ -1,0 +1,25 @@
+﻿@page
+@model JobsModel
+@{
+    ViewData["Title"] = "Jobs";
+}
+<h2>@ViewData["Title"]</h2>
+@*<h3>@Model.Message</h3>*@
+
+<p>Search for Jobs</p>
+<div class="row">
+    <div class="col-md-8">
+        <section>
+            <form method="post" role="form" class="form-horizontal">
+                <hr />
+                Role : <input name='Role' />
+                Location : <input name='Location' /> <button asp-page-handler="Search" class="btn btn-default">Search</button>
+            </form>
+        </section>
+    </div>
+    <hr />
+    <div class="col-md-8">
+
+    </div>
+    <hr />
+</div>

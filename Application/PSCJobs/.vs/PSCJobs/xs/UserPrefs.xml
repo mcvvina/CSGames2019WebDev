@@ -1,3 +1,32 @@
 ﻿<Properties StartupConfiguration="{662C8DE0-7C21-47E9-BB9C-7C182540DCF3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Jobs.cshtml">
+    <Files>
+      <File FileName="Pages/Jobs.cshtml" Line="17" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PSCJobs" expanded="True">
+            <Node name="PSCJobs" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Jobs.cshtml" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PSCJobs PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

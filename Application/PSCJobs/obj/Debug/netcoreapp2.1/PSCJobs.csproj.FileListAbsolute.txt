@@ -64,3 +64,4 @@
 /Users/mcvvina/CSGames2019WebDev/Application/PSCJobs/obj/Debug/netcoreapp2.1/PSCJobs.dll
 /Users/mcvvina/CSGames2019WebDev/Application/PSCJobs/obj/Debug/netcoreapp2.1/PSCJobs.pdb
 /Users/mcvvina/CSGames2019WebDev/Application/PSCJobs/obj/Debug/netcoreapp2.1/PSCJobs.csproj.CopyComplete
+/Users/mcvvina/CSGames2019WebDev/Application/PSCJobs/obj/Debug/netcoreapp2.1/Razor/Pages/Jobs.g.cshtml.cs
